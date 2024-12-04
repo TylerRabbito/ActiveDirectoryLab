@@ -28,7 +28,7 @@ Diagram: <br/>
 <img src="https://i.imgur.com/sXVl3nD.png" height="80%" width="80%" alt="Active Directory steps"/>
 <br />
 <br />
-install the following IP address to the Internal Network: <br/>
+assign the following IP address to the Internal Network: <br/>
 <img src="https://i.imgur.com/c0mdGLy.png" height="80%" width="80%" alt="Active Directory steps"/>
 <br />
 <br />
@@ -42,11 +42,11 @@ Add a user to the Domain and give them Admin Permission:  <br/>
 <img src="https://i.imgur.com/MO3lqmr.png" height="80%" width="80%" alt="Active Directory steps"/>
 <br />
 <br />
-Set up routing to enable clients on the private network to access the internet via the domain controller. :  <br/>
+Set up routing to enable clients on the private network to access the internet via the domain controller:  <br/>
 <img src="https://i.imgur.com/eWFFB4T.png" height="80%" width="80%" alt="Active Directory steps"/>
 <br />
 <br />
-Set up DHCP on the domain controller.:  <br/>
+Set up DHCP on the domain controller:  <br/>
 <img src="https://i.imgur.com/l69A2hD.png" height="80%" width="80%" alt="Active Directory steps"/>
 <img src="https://i.imgur.com/eud9b11.png" height="80%" width="80%" alt="Active Directory steps"/>
 <img src="https://i.imgur.com/960QbkO.png" height="80%" width="80%" alt="Active Directory steps"/>
